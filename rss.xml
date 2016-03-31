@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jstam]]></title>
-        <description><![CDATA[jstam]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[JStam : John Stammerman]]></title>
+        <description><![CDATA[JStam : John Stammerman]]></description>
+        <link>https://thegrid.ai/jstam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 19:26:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 19:49:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jstam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/jstam/720d889c-9783-40a7-9e4b-55b199efa378/index.html</link>
+            <guid isPermaLink="false">720d889c-9783-40a7-9e4b-55b199efa378</guid>
+            <pubDate>Thu, 31 Mar 2016 19:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1c2c05e-a6c1-4e3d-b921-46c7c6f1ccb5.jpg">]]></description>
-            <link>undefined1f7d4dd5-288c-44a2-853b-fc3ff202c111/index.html</link>
+            <link>https://thegrid.ai/jstam/1f7d4dd5-288c-44a2-853b-fc3ff202c111/index.html</link>
             <guid isPermaLink="false">1f7d4dd5-288c-44a2-853b-fc3ff202c111</guid>
             <pubDate>Thu, 31 Mar 2016 19:25:29 GMT</pubDate>
         </item>
