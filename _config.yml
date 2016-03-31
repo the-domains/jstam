@@ -1,0 +1,28 @@
+name: jstam
+favicon: null
+layout_spectrum: 0.2669375112745911
+typography_spectrum: 0.9343771007843316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.799661110388115
+  lightness: 0.9844132792204618
+  saturation: 0.051471605664119124
+  rhythmicContrast: 0.23698814492672682
+purpose: []
