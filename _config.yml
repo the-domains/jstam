@@ -2,6 +2,7 @@ name: jstam
 favicon: null
 layout_spectrum: 0.2669375112745911
 typography_spectrum: 0.9343771007843316
+title: 'JStam : John Stammerman'
 cta:
   domain: null
   bucket: null
