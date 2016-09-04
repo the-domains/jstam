@@ -1,7 +1,18 @@
+layout_spectrum: 0.9346276391297579
+typography_spectrum: 0.3487158571369946
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.48231514589861035
+  lightness: 0.23654085909947753
+  saturation: 0.7052957296837121
+  rhythmicContrast: 0.47528446186333895
 name: jstam
 favicon: null
-layout_spectrum: 0.25976
-typography_spectrum: 0.57702
 title: 'JStam : John Stammerman'
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0e0b06'
-    - '#ffffff'
-    - '#dac6a1'
-    - '#a46e26'
-    - '#f32e37'
-  brandStrength: 0.8125
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0.5
 purpose: []
